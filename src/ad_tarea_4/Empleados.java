@@ -4,12 +4,6 @@
  */
 package ad_tarea_4;
 
-import java.util.HashSet;
-import java.util.Set;
-import org.neodatis.odb.ODB;
-import org.neodatis.odb.ODBFactory;
-import org.neodatis.odb.Objects;
-
 /**
  *
  * @author amjpa
