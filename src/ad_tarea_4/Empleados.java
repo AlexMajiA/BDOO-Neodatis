@@ -79,7 +79,7 @@ public class Empleados {
         this.salario = salario;
     }
     
-    
+ /*   
     public class EliminarDuplicados{
             public static void main(String[] args) {
                 
@@ -106,5 +106,5 @@ public class Empleados {
                 }
             }
         }
-    
+    */
 }
